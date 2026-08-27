@@ -1301,8 +1301,8 @@ try {
 
 Style rules for operators are grouped by arity (the number of operands they take).
 
-When space is permitted around an operator, multiple spaces MAY be
-used for readability purposes.
+When space is permitted around an operator or the `=>` symbol, multiple spaces
+MAY be used for readability purposes.
 
 The `=>` symbol MUST be preceded and followed by at least one space.
 
